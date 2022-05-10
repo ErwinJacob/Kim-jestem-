@@ -1,0 +1,247 @@
+Imie;Nazwisko;Ksywka;Fota
+//Polscy artysci
+Sannah; ; ;
+Daria;Zawiałow;
+Dawid;Podsiadło;
+Roskana;Węgiel;
+Taco;Hemingway;
+Quebonafide; ;
+Bedoes; ;
+Lanek; ;
+Tymek; ;
+White2115; ;
+Żabson; ;
+Mata; ;
+Young Igi; ;
+Sobel; ;
+Malik;Montana;
+Kizo; ;
+Oki; ;
+Otsochodzi; ;
+Young Leosia; ;
+Smolasty; ;
+Jan;Rapowanie;
+Białas; ;
+Reto; ;
+Paluch; ;
+Kukon; ;
+Pezet; ;
+Trill;Pem;
+Skute;Bobo;
+Popek; ;
+Margaret; ;
+Dziarma; ;
+Kubi Producent; ;
+Szpaku; ;
+Sarius; ;
+Schafter; ;
+Young Multi; ;
+Brodka; ;
+Gedz; ;
+Vito;Bambino;
+Kartky; ;
+Solar; ;
+Hodak; ;
+Beteo; ;
+Adi;Nowak;
+
+//Polscy internetowi celebryci //Dodac imiona nazwiska ksywki
+Blowek;
+
+Karol;Friz;Wiśniewski;
+Łukasz;Wujek Łuki;Wojtyca;
+Marta;Murcix;Błoch;
+Kamil;Poczciwy Krzychu;Chwastek;
+Jakub;Patec;Patecki;
+Mateusz;Tromba;Trąbka;
+Maria;Marcysia;Ryskala;
+Weronika;Wersow;Sowa;
+Mateusz;Mini Majk;Krzyżanowski;
+Piotr;Nowciax;Nowak;
+Kasia;Fusialka;Bożek;
+Paulina;Kozłowska; \\baba minimajka
+
+Mixer
+
+Rezigiusz
+Stuu
+Wardega
+Naruciak
+Nitro
+Kamerzysta
+Izak
+Tomasz;"Gimper";Działowy
+Mandzio
+JDabrowsky
+Marcin Dubiel
+Rojo
+The Unboxall
+Boxdel
+Skkf
+Z Dupy
+Rock
+AdBuster
+Cyber Marian
+Martin Stankiewicz
+Poszukiwacz
+Lexy Chaplin
+Julia Kostera
+Kacper Blonsky
+
+Natsu
+Sheo
+Monia Kociołek
+Czaro Nykiel
+Julia Żugaj
+Patrycja Mołczanow
+Leksiu
+TheNitroZyniak
+
+
+
+
+//Polscy celebryci
+Patryk Vega
+Anja Rubik
+Jerzy Owsiak
+Martyna Wojciechowska
+Ewa Chodakowska
+Jacek Kurski
+
+//Politycy
+Ojciec;Tadeusz Rydzyk;
+Aleksander Kwaśniewski
+Grzegorz Schetyna
+Zbigniew Ziobro
+Bronisław Komorowski
+Jacek Sasin
+Andrzej;Duda;
+Jarosław;Kaczyński;
+Donald;Tusk;
+Mateusz;Morawiecki;
+Krzysztof;Bosak;
+Robert Biedroń
+Lech;Wałęsa;
+
+Donald Trump
+Joe Biden
+Barack Obama
+Hillary Clinton
+
+//Worldwide artist
+Adele; ;
+Camila;Cabello;
+Justin Beiber
+Taylor Swift
+Selena;Gomez;
+Jennifer;Lopez;
+Rihanna; ;
+Ariana Grande
+Billie Eilish
+Beyoncé
+Miley Cyrus
+Katy Perry
+Demi Lovato
+The Weeknd
+Ed Sheeran
+Harry Styles
+Tyler, the Creator
+Dua;Lipa;
+Lady;Gaga;
+Olivia Rodrigo
+The Kid Laroi
+
+//Worldwide hiphop
+A$AP Rocky
+A$AP Ferg
+Lil Nas X
+XXXTentacion; ;
+Nicki;Minaj;
+Cardi B; ;
+Drake
+Snoop Dogg
+Juice WRLD
+Eminem
+Kanye West
+Kendrick Lamar
+J. Cole
+2Pac
+Lil Wayne
+Logic
+Iggy Azalea
+Kid Cudi
+Wiz Khalifa
+Mac Miller
+50 Cent
+Travis Scott
+DaBaby
+Pusha T; ;
+Tory;Lanez;
+Post;Malone;
+Lil Baby; ;
+Meek;Mill;
+Roddy;Ricch;
+NLE Choppa; ;
+YoungBoy;Never Broke Again;
+Childish;Gambino;
+Gunna;
+French;Montana;
+Young;Thug;
+Chance;The Rapper;
+Offset; ;
+Trippie;Redd;
+Playboi;Carti;
+Jay-Z; ;
+Future; ;
+Kodak;Black;
+2 Chainz; ;
+Quavo; ;
+Rich the Kid; ;
+Nas; ;
+Lil Peep; ;
+Lil Pump; ;
+Pop Smoke; ;
+
+
+//Celebrities
+Jeff Bezos
+Elon Musk
+Bill Gates
+
+Khaby Lame
+Kylie Jenner
+Kim Kardashian West
+Kendall Jenner
+Ellen DeGeneres
+Gigi Hadid
+Madison;Beer;
+
+//Gwiazdy filmowe
+Jennifer Lawrence
+Dwayne Johnson
+Robert Downey Jr.
+Zendaya
+Tom Holland
+Jennifer Aniston
+Johnny Depp
+Will Smith
+Kevin Hart
+Leonardo DiCaprio
+Margot Robbie
+Angelina Jolie
+Daniel Craig
+Nick Jonas
+Emma Watson
+Keanu Reeves
+Brad Pitt
+Chris Pratt
+
+Vin Diesel
+
+//Sportowcy
+Robert Lewandowski
+Cristiano Ronaldo
+Lionel Messi
+Neymar
+LeBron James
+
